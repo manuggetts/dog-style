@@ -5,7 +5,11 @@
 Este é um projeto de um site de vendas de roupinhas para cães chamado Doguinho Style. O site oferece uma variedade de opções de roupas para cães de todos os tamanhos, visando proporcionar estilo e conforto para os animais de estimação.
 
 ---
-## Curso, Instituição e Certificado 🎯
+## 👾 Visualização Online 
+Você pode acessar o site hospedado na web através do [GitHub Pages](https://manuggetts.github.io/dog-style/).
+
+---
+## 🎯 Curso, Instituição e Certificado
 Este projeto foi desenvolvido como parte do curso "Projeto Instituto Nubank e Descomplica", um projeto de aprendizado prático e colaborativo em programação web com carga horária total de 220H e conclusão em 09 de Agosto de 2023.<br>
 - [Certificado de conclusão](https://1drv.ms/b/c/e3eaf3f62120158b/EfpOp59_PQ1Hm87uUBSJGa0BhbHkPTO66RrJc3WuiZQLqg?e=rw3Peg)
 
