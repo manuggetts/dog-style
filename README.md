@@ -1,6 +1,6 @@
 # Doguinho Style - Site de Vendas de Roupinhas para Cães 🐶💜
 
-*Obs: Este foi o meu primeiro projeto Web. 👾*
+*Obs: Este foi o meu primeiro projeto Web!!!*
 
 Este é um projeto de um site de vendas de roupinhas para cães chamado Doguinho Style. O site oferece uma variedade de opções de roupas para cães de todos os tamanhos, visando proporcionar estilo e conforto para os animais de estimação.
 
