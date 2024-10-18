@@ -1,4 +1,4 @@
-# Doguinho Style - Site de Vendas de Roupinhas para Cães 🐶💜
+# Doguinho Style - E-commerce de Roupinhas para Cães 🐶💜
 
 *Obs: Este foi o meu primeiro projeto Web!!!*
 
